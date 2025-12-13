@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>E-Nakladnoy Android Appcast</title>
+    <description>Android update feed for Upgrader</description>
+    <language>en</language>
+
+    <item>
+      <title>1.0.4</title>
+      <description><![CDATA[
+- Bug fixes
+- Performance improvements
+      ]]></description>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=artel.com.e_nakladnaya" />
+    </item>
+
+  </channel>
+</rss>
