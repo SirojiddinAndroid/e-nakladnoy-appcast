@@ -14,8 +14,9 @@
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=artel.com.e_nakladnaya"
-        sparkle:version="1.0.4"
-        sparkle:os="android" />
+        sparkle:os="android"
+        sparkle:version="5"
+        sparkle:shortVersionString="1.0.4" />
     </item>
   </channel>
 </rss>
