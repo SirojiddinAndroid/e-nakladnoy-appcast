@@ -5,7 +5,7 @@
     <description>Android update feed for Upgrader</description>
 
     <item>
-      <title>Version 1.0.6</title>
+      <title>Version 1.0.5</title>
       <description><![CDATA[
 - Bug fixes
 - Performance improvements
@@ -15,8 +15,8 @@
       <enclosure
         url="https://play.google.com/store/apps/details?id=artel.com.e_nakladnaya"
         sparkle:os="android"
-        sparkle:version="1.0.6"
-        sparkle:shortVersionString="1.0.6" />
+        sparkle:version="1.0.5"
+        sparkle:shortVersionString="1.0.5" />
     </item>
   </channel>
 </rss>
