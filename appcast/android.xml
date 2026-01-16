@@ -5,18 +5,18 @@
     <description>Android update feed for Upgrader</description>
 
     <item>
-      <title>Version 1.0.7</title>
+      <title>Version 1.0.9</title>
       <description><![CDATA[
 - Bug fixes
 - Performance improvements
       ]]></description>
-      <pubDate>Mon, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Jan 2026 00:00:00 +0000</pubDate>
 
       <enclosure
         url="https://play.google.com/store/apps/details?id=artel.com.e_nakladnaya"
         sparkle:os="android"
-        sparkle:version="1.0.7"
-        sparkle:shortVersionString="1.0.7" />
+        sparkle:version="1.0.9"
+        sparkle:shortVersionString="1.0.9" />
     </item>
   </channel>
 </rss>
